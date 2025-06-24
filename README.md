@@ -1,5 +1,5 @@
 # python-in-excel
-A place to share the python in excel workbook that was presented at the ASC conference 2025
+A place to share the python in excel workbook that were first presented at the ASC conference 2025
 
 The workbook is a collection of different ways that you can use python in excel but with an bias towards survey analysis techniques.
 If you come up with any problems or improvement requests whilst using the workbook then please submit an issue.
