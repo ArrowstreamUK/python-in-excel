@@ -46,6 +46,9 @@ Each file showcases a different technique or analysis:
   An interactive example demonstrating machine learning in Excel. 
   Users input sepal and petal measurements, and a trained decision tree model predicts the Iris species directly within the workbook.
   Whilst not directly related to survey data, it is an example of how we could do segmentation 
+  
+- 📱 **[QR Code Generator.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/QR%20Code%20Generator.xlsx)**  
+An example showing how to generate QR codes within Excel using Python. This builds on Microsoft’s example, demonstrating practical uses for creating quick links or survey access codes directly in your workbooks.
 
 ## 🔜 Coming soon
 
