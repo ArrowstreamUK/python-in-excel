@@ -20,7 +20,7 @@ Each file showcases a different technique or analysis:
 - 📝 **Fixing encoding issues.xlsx**  
   Techniques to clean and fix text encoding problems in your data.
 
-- 💬 **[Sentiment Analysis.xlsx] (https://github.com/ArrowstreamUK/python-in-excel/blob/main/Sentiment%20Analysis.xlsx)**   
+- 💬 **[Sentiment Analysis.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Sentiment%20Analysis.xlsx)**   
   Analyse open-ended responses using Python-based sentiment scoring.
   
 - 🔍 **Fuzzy Logic Matching.xlsx**
