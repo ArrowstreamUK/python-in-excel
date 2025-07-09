@@ -32,6 +32,11 @@ Each file showcases a different technique or analysis:
 - ⚖️ **[RIM Weighting.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/RIM%20Weighting.xlsx)**
   Calculating survey weights is a common task, RIM weighting is a way of calculating the weight through iterations of gradual improvement
 
+- ⚖️ **[Generate Fake Data.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Generate%20Fake%20Data.xlsx)**
+  Need some fake data, generate what you need in multiple languages
+
+- 🧪 **[Synthetic Data Generation.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Synthetic%20Data%20Generation.xlsx)**
+  Demonstrates how to use machine learning to generate synthetic data for missing survey responses. In this quick example, values are created for respondents who did not see a question due to a survey error, showcasing a practical approach to filling gaps for analysis.
 
 ## 🔜 Coming soon
 
