@@ -38,6 +38,15 @@ Each file showcases a different technique or analysis:
 - 🧪 **[Synthetic Data Generation.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Synthetic%20Data%20Generation.xlsx)**
   Demonstrates how to use machine learning to generate synthetic data for missing survey responses. In this quick example, values are created for respondents who did not see a question due to a survey error, showcasing a practical approach to filling gaps for analysis.
 
+- 🌸 **[Pair Plot – Iris Dataset.xlsx](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Pair%20Plot.xlsx)**
+  An example demonstrating how to create a pair plot using the classic Iris dataset. Pair plots visualise relationships between multiple numerical variables, helping to identify patterns, correlations, and class separations within the data.
+  Source: The Iris dataset was introduced by R.A. Fisher (1936) and is widely available in data science libraries such as scikit-learn.
+  
+- 🌳 **[Machine learning for predictive models](https://github.com/ArrowstreamUK/python-in-excel/blob/main/Machine%20learning%20for%20predictive%20models.xlsx)**
+  An interactive example demonstrating machine learning in Excel. 
+  Users input sepal and petal measurements, and a trained decision tree model predicts the Iris species directly within the workbook.
+  Whilst not directly related to survey data, it is an example of how we could do segmentation 
+
 ## 🔜 Coming soon
 
 More examples are on their way to help you integrate Python seamlessly into your survey workflows and everyday Excel tasks.
