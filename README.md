@@ -23,9 +23,11 @@ Each file showcases a different technique or analysis:
 - 💬 **[Sentiment Analysis.xlsx] (https://github.com/ArrowstreamUK/python-in-excel/blob/main/Sentiment%20Analysis.xlsx)**   
   Analyse open-ended responses using Python-based sentiment scoring.
   
-- 🔍**Fuzzy Logic Matching.xlsx**
+- 🔍 **Fuzzy Logic Matching.xlsx**
   This workbook demonstrates how to use fuzzy matching algorithms to semi-automate the coding of open-ended survey responses. It compares each free-text answer to a reference list, returning the best and second-best matches with similarity scores. Confident matches can be auto-coded, while ambiguous ones are flagged for manual review – reducing workload while maintaining accuracy.
 
+- 🧭 **Polar Histogram.xlsx**
+  An advanced example showing how to create polar histograms within Excel using Python and Matplotlib. Inspired by Oscar Leo’s tutorial on Medium, this demonstrates circular data visualisation techniques for complex analytical tasks.
 
 
 ## 🔜 Coming soon
