@@ -2,6 +2,10 @@
 
 Welcome! This repository is a growing collection of **example workbooks** demonstrating how to use **Python directly in Excel**, with a focus on **survey research applications**.
 
+New to this?
+[![Watch the video](https://img.youtube.com/vi/1C-r6CYXoVo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1C-r6CYXoVo)
+
+
 ## 🚀 What's inside?
 
 Each file showcases a different technique or analysis:
