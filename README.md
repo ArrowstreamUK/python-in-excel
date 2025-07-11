@@ -2,8 +2,8 @@
 
 Welcome! This repository is a growing collection of **example workbooks** demonstrating how to use **Python directly in Excel**, with a focus on **survey research applications**.
 
-New to this?
-[![Watch the video](https://img.youtube.com/vi/1C-r6CYXoVo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1C-r6CYXoVo)
+New to this? then check out our training video on YouTube. Recorded for the [Association for Survey Computing](https://www.asc.org.uk) on 11 July 2025
+[![Watch the video](https://img.youtube.com/vi/1C-r6CYXoVo/default.jpg)](https://www.youtube.com/watch?v=1C-r6CYXoVo)
 
 
 ## 🚀 What's inside?
